@@ -1,4 +1,5 @@
 # Jakobs50.github.io
 Initial Project
+von einem schönen Urlaub
 
-erste Schritte in GitHub
+![nur Neuseeland](https://jakobs50.github.io/nzl.jpg "Neuseeland")
